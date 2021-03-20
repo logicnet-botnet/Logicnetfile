@@ -1,0 +1,2 @@
+# Logicnetfile
+fast setup scanning
